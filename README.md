@@ -25,12 +25,14 @@
   <p style="font-size: 15px; line-height: 1.7;">
     I am a developer who cares about both engineering quality and product feel.
     My work often sits at the intersection of mobile UI, API contracts, state management,
-    realtime interactions, marketplace features, media experiences, and production debugging.
+    realtime interactions, marketplace features, payment gateway integration, media experiences,
+    and production debugging.
   </p>
 
   <ul style="line-height: 1.8;">
     <li>Building mobile apps with <strong>React Native</strong> and modern JavaScript.</li>
     <li>Working with backend APIs, authentication, sockets, media uploads, and cloud services.</li>
+    <li>Integrated payment gateway flows using <strong>Stripe</strong>.</li>
     <li>Creating smooth product flows for feeds, carts, marketplaces, microsites, and user profiles.</li>
     <li>Focused on clean UI, practical architecture, and fixing real runtime issues from logs.</li>
     <li>Comfortable improving both frontend behavior and backend contracts end to end.</li>
@@ -52,6 +54,7 @@
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" />
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=ffffff" alt="Stripe" />
     <img src="https://img.shields.io/badge/API%20Integration-2563EB?style=for-the-badge" alt="API Integration" />
     <img src="https://img.shields.io/badge/WebSocket-7C3AED?style=for-the-badge" alt="WebSocket" />
   </p>
@@ -142,8 +145,11 @@
   </p>
 
   <p>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+    <a href="mailto:mirajulislam76779@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mirajulislam76779%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+    </a>
+    <a href="tel:+8801937153621">
+      <img src="https://img.shields.io/badge/Phone-01937153621-22C55E?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="Phone" />
     </a>
     <a href="https://www.linkedin.com/in/your-linkedin-username">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
