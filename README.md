@@ -151,7 +151,7 @@
     <a href="tel:+8801937153621">
       <img src="https://img.shields.io/badge/Phone-Call%20Me-22C55E?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="Phone" />
     </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <a href="https://www.linkedin.com/in/md-mirajul-islam-a305a840b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
     </a>
     <a href="https://github.com/MirazRatul">
