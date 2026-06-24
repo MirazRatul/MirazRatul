@@ -146,10 +146,10 @@
 
   <p>
     <a href="mailto:mirajulislam76779@gmail.com">
-      <img src="https://img.shields.io/badge/Email-mirajulislam76779%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
     </a>
     <a href="tel:+8801937153621">
-      <img src="https://img.shields.io/badge/Phone-01937153621-22C55E?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="Phone" />
+      <img src="https://img.shields.io/badge/Phone-Call%20Me-22C55E?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="Phone" />
     </a>
     <a href="https://www.linkedin.com/in/your-linkedin-username">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
